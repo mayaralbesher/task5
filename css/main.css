@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+}
+h1{
+   margin-bottom: 10px;
+   text-decoration: underline;
+}
+.head{
+    text-align: left;}
+.Product h5{
+    color: gray;
+    
+}
+ 
+
+ 
+s{
+    color: darkred;
+ } 
+ 
+ .Product{
+    text-align: center;
+    float: left; 
+    margin: auto 10px;
+    border: 2px solid black;
+    padding-bottom: 10px;
+ }
+ #clear{
+    clear: both;
+ }
+ .cart{
+    background-color: midnightblue;
+    color: aliceblue;
+    width: 65%;
+    margin-left: 7%;
+   float: left;
+ }
+ button{
+    background-color: midnightblue;
+    color: aliceblue;
+    border: none;
+ }
+ .price{
+   color:forestgreen ;
+ }
+ .heart{
+   background-color: white;
+   color: midnightblue;
+   float: right;
+   margin-left: 4px;
+   margin-right: 20%;
+   border: 1px solid midnightblue;
+ 
+ }
+ 
